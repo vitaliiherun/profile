@@ -1,12 +1,12 @@
-# Senior Mobile Engineer - React Native
+# Senior Mobile Engineer
 
 ## Bio
 
-I'm a results-driven senior software engineer with 10 years of experience specializing in React Native Mobile Application Development. As a react native expert, I have comprehensive experience in the research and development areas and I can make anything from a small mobile app to full large-scale mobile applications.
+I'm a results-driven senior software engineer with 10 years of experience specializing in Mobile Application Development. As a mobile expert, I have comprehensive experience in the research and development areas and I can make anything from a small mobile app to full large-scale mobile applications.
 
 I'm an enthusiastic & talented team player and am also a deep creative thinker for strategic problem-solving. Working on the previous projects, I learned how to organize the architecture of large-scale data-rich mobile apps with good user experiences.
 
-I am standing at the edge of technologies and working with the most famous technologies like React, Swift, Kotlin etc. Being a kind of faster learner, I'm always hungry to learn new concepts and edge technologies and always strive to implement the best practices in the features.
+I am standing at the edge of technologies and working with the most famous technologies like React Native, Swift, Kotlin etc. Being a kind of faster learner, I'm always hungry to learn new concepts and edge technologies and always strive to implement the best practices in the features.
 
 
 ## Portfolio
@@ -21,6 +21,7 @@ I am standing at the edge of technologies and working with the most famous techn
 
 ## My backgrounds for react native mobile app development
 
+ - Native Mobile Project Management
  - React Native Project Management
  - Pixel Perfect Front End Development
  - Performance Optimization
@@ -31,7 +32,8 @@ I am standing at the edge of technologies and working with the most famous techn
 
 ## Experienced skills
 
- - React Native cli & expo
+ - Swift/Kotlin
+ - React Native cli & expo & Flutter
  - Payment Processing in stripe, plaid, braintree, modern-treasury, etc
  - Location tracking and map in google map, mapbox, and other various services
  - Cloud Services: Firebase, AWS, Airtable, etc
